@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Josip Medved and these are some of my repositories.
+
+
 <!--
 **medo64/medo64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
