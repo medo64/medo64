@@ -2,6 +2,9 @@
 
 My name is Josip Medved and these are some of my repositories.
 
+If you want to see more of the stuff I do, you can always visit [my home page at medo64.com](https://medo64.com).
+
+
 
 <!--
 **medo64/medo64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
